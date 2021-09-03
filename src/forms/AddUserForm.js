@@ -47,7 +47,7 @@ const AddUserForm = props => {
 			<button className="btn btn-primary">Add new user</button>
 		</form>
 
-        <h1>{use.name}</h1>
+       
         </div>
         </div>
         </>
